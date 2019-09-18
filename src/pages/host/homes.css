@@ -1,0 +1,179 @@
+
+.normal {
+  background: #B879F2;
+}
+.header{
+  background: #fff;
+  height: 81px;
+  width: 100%;
+  position: fixed;
+  top:0px;
+  left: 0px;
+  z-index: 99;
+  border-bottom: #999 1px solid
+}
+.pageheader{
+  height: 81px
+}
+.banner{
+  background-image: url('../../../public/1.jpg');
+  width:100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 0px 0px
+}
+.know{
+  width: 192px;
+  height: 48px;
+  padding: 10px 22px;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: normal;
+  border: #484848 2px solid ;
+  color: #484848;
+  background: transparent;
+  font-weight: bold
+}
+.link{
+  border-bottom: 1px solid #ebebeb;
+  width: 508px;
+  float: left;
+  padding: 24px 8px
+}
+.links{
+  margin: 0 91px;
+  overflow: hidden;
+}
+.font{
+  font-size: 32px;
+  line-height: 40px
+}
+.rate{
+  float:left;
+}
+.rates{
+  margin: 100px 91px;
+  overflow: hidden;
+}
+.card{
+  margin: 0 91px;
+  padding: 0 24px;
+  overflow: hidden;
+  padding-top: 100px
+}
+.smallmore{
+  float: left;
+  padding: 0 8px
+}
+.smallcard{
+  float: left;
+  width: 33.3333333%;
+}
+.smallcard h2{
+  font-size: 24px;
+  font-weight: bold;
+  width: 296px;
+  color: #484848
+}
+.smallcard p{
+  font-size: 16px;
+  width: 296px
+}
+.biaodan{
+  width: 460px;
+  height: 448px;
+  background: #fff;
+  border-radius: 4px;
+  float: right;
+  padding: 25px;
+  margin: 78px 92px 0 0
+}
+.biaodan h1{
+  font-size: 40px;
+  font-weight: bold
+}
+.content{
+  width: 100%;
+  min-height: 600px;
+  background: #fff;
+  padding-bottom: 50px;
+  margin-top: 81px
+}
+.areyouready button{
+  height: 48px;
+  width: 80px;
+  border: 0;
+  border-radius: 4px;
+  padding: 10px 22px;
+  line-height: 24px;
+  font-weight: 700;
+  margin-left: 91px;
+  margin-top: 40px;
+  font-size: 16px;
+
+  color: #484848;
+  background: #fff;
+
+}
+.bigfont{
+  padding-top: 96px;
+  font-size: 60px;
+  line-height: 64px;
+  letter-spacing: -2.5px;
+  color: #fff;
+  font-weight: 700px;
+  padding-bottom: 8px;
+  vertical-align: baseline;
+  width: 430px;
+  margin-left: 91px
+}
+.areyouready{
+  background: url('../../../public/6.jpg');
+  height: 440px;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+
+}
+.link span{
+  color: #008489;
+  font-size: 18px
+}
+.more{
+  margin: 100px 91px;
+  overflow: hidden;
+  /* padding: 0 24px */
+}
+.more span{
+  color: #008489;
+  font-weight: 300
+}
+.desc{
+  line-height: 22px;
+  font-size: 16px;
+  color: #484848;
+  font-weight: bold;
+  padding-top: 15px
+}
+.more h2{
+  font-size: 24px;
+  font-weight: 800;
+  color: #484848;
+  padding: 2px 0
+}
+.more img{
+  width: 333px;
+  height: 171px
+}
+.left{
+  float: left;
+  margin-top: 20px
+}
+.right{
+  float:right;
+  margin-right: 30px
+}
+.svg{
+  height: 80px
+}

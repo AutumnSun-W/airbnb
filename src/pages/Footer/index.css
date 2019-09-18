@@ -1,0 +1,118 @@
+.foot{
+    background-color: #ffffff ;
+    border-top: 1px solid #EBEBEB ;
+    color: #484848;
+}
+.foot1{
+    width:1080px;
+    margin: 0 auto;
+    padding:48px 24px;
+}
+.aby{
+    padding:0 8px;
+}
+.biaoti4{
+    font-size: 14px ;
+    font-weight: 800 ;
+    color: rgb(72, 72, 72) ;
+    line-height:18ox;
+}
+.caidan{
+    margin-top:16px;
+    font-size: 14px ;
+    font-weight: 600 ;
+    line-height:18px;
+    color: rgb(72, 72, 72)
+}
+.caidan li{
+    margin-bottom: 4px;
+}
+.caidan li a{
+    color: #767676;
+    
+}
+.caidan li a:hover{
+    text-decoration: underline;
+}
+
+.tiaokuan{
+    margin: 14px;
+    padding-left:40px;
+    font-size: 14px ;
+    font-weight: 600 ;
+    line-height:18px;
+    color: rgb(72, 72, 72)
+}
+.tiaokuan li{
+    margin-bottom: 4px;
+}
+.tiaokuan li span{
+   padding:0 8px;
+}
+.tiaokuan li a{
+    color: #767676;
+    
+}
+.tiaokuan li a:hover{
+    text-decoration: underline;
+}
+
+.foot2{
+    width:1032px;
+    height:60px;
+    margin:20px auto;
+    border-top: 1px solid #EBEBEB ;
+    font-size: 14px ;
+    font-weight: 600 ;
+    line-height: 18px ;
+    color: rgb(72, 72, 72);
+    padding-top:20px;
+
+}
+.foot2 .tubiao{
+    width:4%;
+   float: left;
+   padding-top:5px;
+}
+.foot2 .zhizao{
+    width:94%;
+    float: left;
+    font-size: 14px ;
+    font-weight: 600 ;
+    line-height: 18px ;
+    color: rgb(118, 118, 118) ;
+
+
+}
+.foot2 .zhizao a{
+    color: rgb(118, 118, 118);
+}
+.foot2 .zhizao a:hover{
+    text-decoration: underline;
+}
+.foot2 .but{
+    color: rgb(118, 118, 118) ;
+    margin-left:20px;
+}
+.foot2 .but .buts{
+    background:#fff;
+    border:1px solid rgb(242, 242, 242);
+    padding: 8px 12px;
+    margin-right:12px;
+    font-size: 14px ;
+    font-weight: 600 ;
+    color: rgb(118, 118, 118);
+    cursor:pointer
+}
+.foot2 .but .money{
+    background:#fff;
+    border:1px solid rgb(242, 242, 242);
+    padding: 8px 12px;
+    font-size: 14px ;
+    font-weight: 600 ;
+    color: rgb(118, 118, 118);
+    cursor:pointer
+}
+.foot2 .but button:hover{
+    background: rgb(242, 242, 242);
+}

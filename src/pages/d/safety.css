@@ -1,0 +1,158 @@
+.header{
+  background: #fff;
+  height: 81px;
+  width: 100%;
+  position: fixed;
+  top:0px;
+  left: 0px;
+  z-index: 99;
+  border-bottom: #ccc 1px solid
+}
+.headnav{
+  float: left;
+  list-style: none;
+  padding: 0 0 0 24px;
+  height: 81px
+}
+.headnav li{
+  display: inline-block;
+  height: 81px;
+  width: 28px;
+  margin-right: 32px;
+  line-height: 30px;
+  box-sizing: border-box
+}
+.headnav li a{
+  font-size: 100%;
+  font-weight: 600;
+  color: #484848;
+
+}
+.headnav li a:hover{
+  text-decoration: underline 
+}
+.left{
+  float: left;
+  margin-top: 20px
+}
+.right{
+  float:right;
+  margin-right: 30px
+}
+.bigFont{
+  font-size: 60px;
+  line-height: 64px;
+  letter-spacing: -2.5px;
+  color: #333333;
+  font-weight: 900
+}
+.line{
+  width: 64px;
+  border: 1px solid #767676;
+  margin: 0 auto;
+  margin-top: 80px
+}
+.middlefont{
+  font-size: 24px;
+  line-height: 30px;
+  color: #484848;
+  padding: 2px 0;
+}
+.smallfont{
+  font-weight: 800;
+  color: #484848;
+  font-size: 14px;
+
+}
+.h1{
+  margin-top: 181px;
+  text-align: center
+}
+.title{
+  font-size: 24px;
+  font-weight: 800;
+  padding: 2px 0;
+  line-height: 1.25em;
+  color: #484848
+}
+.know{
+  width: 192px;
+  height: 48px;
+  padding: 10px 22px;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: normal;
+  border: #484848 2px solid ;
+  color: #484848;
+  background: transparent;
+  font-weight: bold
+}
+.font{
+  font-size: 32px;
+  line-height: 40px
+}
+.areyouready button{
+  height: 48px;
+  width: 80px;
+  border: 0;
+  border-radius: 4px;
+  padding: 10px 22px;
+  line-height: 24px;
+  font-weight: 700;
+  margin-left: 91px;
+  margin-top: 40px;
+  font-size: 16px;
+
+  color: #484848;
+  background: #fff;
+
+}
+.bigfont{
+  padding-top: 96px;
+  font-size: 60px;
+  line-height: 64px;
+  letter-spacing: -2.5px;
+  color: #fff;
+  font-weight: 700px;
+  padding-bottom: 8px;
+  vertical-align: baseline;
+  width: 430px;
+  margin-left: 91px
+}
+.areyouready{
+  background: url('../../../public/9.jpg');
+  height: 440px;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  text-align: left
+}
+.rates{
+  margin: 100px 91px;
+  overflow: hidden;
+  text-align: left
+}
+.rate{
+  float:left;
+}
+.smallcard{
+  float: left;
+  width: 33.3333333%;
+}
+.Card{
+  margin: 0 91px;
+  padding: 0 24px;
+  overflow: hidden;
+  padding-top: 100px
+}
+.card{
+  width: 444px;
+  height: 270px;
+  margin-right: 64px;
+  float: left;
+  text-align: left
+}
+.card p{
+  width: 444px
+}

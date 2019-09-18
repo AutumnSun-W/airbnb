@@ -1,0 +1,21 @@
+.child{
+    text-align: left;
+    margin-bottom: 8px
+}
+.title{
+    font-size: 16px;
+    font-weight: 800
+}
+.desc{
+    width: 350px;
+    height: 45px;
+    font-size: 14px;
+    font-weight: 400;
+    overflow : hidden;
+text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp: 2;
+}
+.footer{
+    color: rgb(0, 132, 137)
+}

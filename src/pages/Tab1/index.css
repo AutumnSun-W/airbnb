@@ -1,0 +1,106 @@
+.min{
+    width: 1032px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.min .autumn{
+    width: 1032px;
+    margin:40px 0;
+}
+.autumn .fubiao{
+    height:48px;
+}
+.autumn .fubiao h3{
+    font-size: 24px;
+    line-height: 30px;
+    color: #484848;
+    font-weight: 800;
+}
+
+
+.autumn .box{
+    width:1032px;
+    height:48px;
+    overflow: hidden;
+    margin: 8px 0 24px 0; 
+    color: #484848;
+    position: relative;
+}
+
+.autumn .fangyuan{
+    width:1500px;  
+    
+}
+.autumn .fangyuan .autuLi{
+    background:#00848A;
+    color: #fff;
+    
+}
+
+
+
+.zansi{
+    width: 1032px;
+}
+.zansi ul{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; 
+}
+.zansi ul li{
+    padding:0 8px 12px 8px;
+    width:330px;
+    height:330px;
+    
+}
+.zansi ul li img{
+    display: block;
+    width:330px;
+    height:222px;
+
+}
+
+.zansi ul li .zansip{
+   color: rgb(76, 86, 41);
+   overflow: hidden;
+   font-size: 14px;
+
+}
+.zansi ul li span{
+    color:#484848;
+    font-family: Circular, PingFang-SC, "Hiragino Sans GB", 微软雅黑, "Microsoft YaHei", "Heiti SC" !important;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 800;
+}
+.zansi ul li .zansijin{
+    color: #484848 ;
+    margin: 0px ;
+    word-wrap: break-word ;
+    font-size: 14px ;
+    line-height: 1.28571em ;
+    font-weight: 400 ;
+}
+
+.cakan{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #008489;
+}
+
+.buts{
+position: absolute;
+left:-15px;
+top:65px;
+background:#fff;
+color: #000;
+}
+.buts1{
+    position: absolute;
+    right:-15px;
+    top:65px;
+    background:#fff;
+    color: #000;
+    }

@@ -1,0 +1,110 @@
+.title{
+    font-size: 24px;
+    font-weight: 800;
+    color: rgb(72, 72, 72)
+}
+.close{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: 6px
+    
+}
+.login{
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(72, 72, 72)
+}
+.loginGo{
+    font-size: 16px;
+    font-weight: 600;
+    color: #008489
+}
+.phone{
+    margin-right: 10px
+}
+.wechat{
+    margin-right: 10px
+}
+.red{
+    width: 100%;
+    height: 7%;
+    border-radius: 6px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #fff;
+    background: rgb(255, 90, 95);
+    color: #fff;
+    font-size:16px;
+    line-height: 30px
+}
+.green{
+    width: 100%;
+    height: 7%;
+    border-radius: 6px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #fff;
+    background: rgb(9, 188, 19);
+    color: #fff;
+    font-size:16px;
+    line-height: 30px
+}
+.loginOther{
+    font-size: 14px;
+    font-weight: 600;
+    color: #008489;
+    text-align: center
+}
+.otherText{
+    font-size: 16px;
+    font-weight: 600;
+    color: #484848;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+.otherTextA{
+    color: rgb(213, 43, 42);
+   
+}
+.otherTextB{
+    color: rgb(0, 169, 241);
+   
+}
+.otherTextC{
+    color: rgb(9, 188, 19);
+   
+}
+
+.black{
+    width: 100%;
+    height: 5.5%;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    border-color:#484848;
+    background: #fff;
+    color:#484848;
+    font-size:16px;
+    line-height: 30px
+}
+.check{
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    appearance:none;
+    border: 1px solid  #008489;
+    border-radius: 2px;
+    outline: none; 
+}
+.checkBox input[type=checkbox]:checked{
+    box-shadow: 0 0 1px 1px #008489;
+    color: #008489;
+    background: #008489;
+ }
+.checkp{
+    font-size: 14px; 
+    font-weight: 400 ;
+    color: rgb(72, 72, 72)
+}
